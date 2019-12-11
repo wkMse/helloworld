@@ -2,7 +2,7 @@ package wangkun;
 
 public class WangKun {
 	public static void main(String[] args) {
-		System.out.println("xiao wang");
+		System.out.println("xiao wang Ëæ±ã¸Ä¸Ä£¡£¡£¡");
 	}
 
 }
